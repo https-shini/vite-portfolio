@@ -15,23 +15,12 @@
 ## ☆ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-<<<<<<< HEAD
-
 -   HTML
 -   CSS
 -   JavaScript
 -   ViteJS
 
 ## ☆ Projeto
-
--   HTML
--   CSS
--   JavaScript
--   ViteJS
-
-## ☆ Projeto
-
-Uma página web que consiste em um currículo com diversas infromações, como um pouco sobre mim e até mesmo as minhas skills, projetos, linkis sociais e muito mais.
 
 ## ☆ Licença
 
