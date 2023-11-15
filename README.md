@@ -22,6 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ☆ Projeto
 
+Os códigos deste projeto juntos são uma página web que consiste em um currículo com diversas infromações, como um pouco sobre mim e até mesmo as minhas skills, projetos, linkis sociais e muito mais.
+
 ## ☆ Licença
 
 Esse projeto está sob a licença MIT.
