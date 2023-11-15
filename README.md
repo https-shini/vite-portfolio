@@ -9,13 +9,8 @@
 
 ## ☆ Hospedagem
 
-<<<<<<< HEAD
 -   Acesse o link abaixo e veja meu código hospedado online.<br>
     https://vite-portfolio-beta.vercel.app
-=======
-- Acesse o link abaixo e veja meu código hospedado online.<br>
-https://vite-portfolio-beta.vercel.app
->>>>>>> 116620a2cfc38e44a286ceed25c74ad3816ff4f7
 
 ## ☆ Tecnologias
 
@@ -29,16 +24,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ☆ Projeto
 
-=======
-- HTML
-- CSS
-- JavaScript
-- ViteJS
+-   HTML
+-   CSS
+-   JavaScript
+-   ViteJS
 
 ## ☆ Projeto
 
+Uma página web que consiste em um currículo com diversas infromações, como um pouco sobre mim e até mesmo as minhas skills, projetos, linkis sociais e muito mais.
 
->>>>>>> 116620a2cfc38e44a286ceed25c74ad3816ff4f7
 ## ☆ Licença
 
 Esse projeto está sob a licença MIT.
