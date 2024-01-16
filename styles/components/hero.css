@@ -32,6 +32,7 @@
     max-width: 60ch;
     font-size: var(--size-sm);
     color: var(--clr-slate600);
+    margin-bottom: 3.2rem;
 }
 
 .hero__btn {

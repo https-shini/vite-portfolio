@@ -4,15 +4,13 @@
     gap: 1rem;
 }
 
-.about__content {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-}
-
 .about__container {
     display: flex;
     gap: 1rem;
+}
+
+.about__container > a {
+    margin-top: 0.7rem;
 }
 
 .about__btn {
@@ -31,10 +29,12 @@
     font-size: var(--size-sm);
     color: var(--clr-slate600);
     text-align: justify;
+    margin-bottom: 1rem;
 }
 
 .about__hr {
     border-color: var(--clr-slate800);
+    margin-bottom: 1rem;
 }
 
 .about__subtitle {
