@@ -10,7 +10,7 @@
 ## ☆ Hospedagem
 
 -   Acesse o link abaixo e veja meu código hospedado online.<br>
-    https://vite-portfolio-beta.vercel.app
+    https://vite-portfolio-beta.vercel.app/#home
 
 ## ☆ Tecnologias
 
