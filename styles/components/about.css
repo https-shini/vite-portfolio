@@ -10,12 +10,12 @@
     gap: 1rem;
 }
 
-.about__container{
+.about__container {
     display: flex;
     gap: 1rem;
 }
 
-.about__btn{
+.about__btn {
     margin-top: 0.5em;
     height: 2.5em;
 }
