@@ -24,6 +24,7 @@
 .about__title {
     font-size: var(--size-2xl);
     color: var(--clr-light);
+    margin-left: -15px;
     width: 3em;
 }
 
