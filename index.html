@@ -25,7 +25,7 @@
                         >
                     </li>
                     <li>
-                        <a class="mobile-nav__link" href="#work">Portfólio</a>
+                        <a class="mobile-nav__link" href="#work">Projetos</a>
                     </li>
                     <li>
                         <a class="mobile-nav__link" href="#contact">Contato</a>
@@ -77,7 +77,7 @@
                         >
                     </li>
                     <li>
-                        <a class="mobile-nav__link" href="#work">Portfólio</a>
+                        <a class="mobile-nav__link" href="#work">Projetos</a>
                     </li>
                     <li>
                         <a class="mobile-nav__link" href="#contact">Contato</a>
@@ -250,15 +250,33 @@
                 </div>
             </section>
             <section id="work" class="work container section">
-                <h2 class="work__title">Portfólio</h2>
+                <h2 class="work__title">Projetos</h2>
                 <p class="work__description">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut
-                    error sapiente vitae fugit enim totam voluptatem reiciendis
-                    rerum ea, dolor nulla ratione, dolorum omnis! Voluptas sit
-                    quibusdam architecto illo quam.
+                    Meu portfólio reflete minha evolução como desenvolvedor, com
+                    projetos responsivos que evidenciam minha dedicação à
+                    melhoria e inovação no desenvolvimento web e mobile. Cada
+                    projeto representa um passo na minha jornada de aprendizado
+                    contínuo e busca por excelência.
                 </p>
                 <div class="work__container">
                     <!-- Project 1 -->
+                    <h3 class="work__project-title"></h3>
+                    <div class="work__img-wrapper work__image1">
+                        <img src="./public/webchat.png" alt="Imagem01" />
+                    </div>
+                    <div class="work__project work__content1">
+                        <h3 class="work__project-subtitle">Web Chat</h3>
+                        <p class="work__project-description">
+                            O projeto é uma aplicação web que permite
+                            comunicação instantânea entre usuários, utilizando
+                            tecnologias como HTML5, CSS3, JavaScript e Node.js.
+                            Não é necessário instalar softwares adicionais, e o
+                            uso do protocolo WebSocket possibilita conversas
+                            rápidas e interativas em tempo real.
+                        </p>
+                        <a class="btn work__project-btn" href="#">Ver mais</a>
+                    </div>
+                    <!-- Project 2 -->
                     <h3 class="work__project-title"></h3>
                     <div class="work__img-wrapper work__image2">
                         <img src="./public/car-ico.png" alt="Imagem02" />
@@ -280,12 +298,12 @@
                             >Ver mais</a
                         >
                     </div>
-                    <!-- Project 2 -->
+                    <!-- Project 3 -->
                     <h3 class="work__project-title"></h3>
-                    <div class="work__img-wrapper work__image1">
-                        <img src="./public/fin-ico.png" alt="Imagem01" />
+                    <div class="work__img-wrapper work__image3">
+                        <img src="./public/fin-ico.png" alt="Imagem03" />
                     </div>
-                    <div class="work__project work__content1">
+                    <div class="work__project work__content3">
                         <h3 class="work__project-subtitle">Site de Finanças</h3>
                         <p class="work__project-description">
                             Este projeto é uma página web desenvolvida
@@ -298,22 +316,6 @@
                             href="https://github.com/https-shini/financas-reactjs"
                             >Ver mais</a
                         >
-                    </div>
-                    <!-- Project 3 -->
-                    <h3 class="work__project-title"></h3>
-                    <div class="work__img-wrapper work__image3">
-                        <img src="./public/teste02.png" alt="Imagem03" />
-                    </div>
-                    <div class="work__project work__content3">
-                        <h3 class="work__project-subtitle">Projeto Teste</h3>
-                        <p class="work__project-description">
-                            Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Ex harum voluptatem nam magnam nulla veniam
-                            quisquam enim obcaecati nesciunt accusantium
-                            consequatur repellendus id facere aut, nemo aliquam,
-                            reprehenderit iusto est.
-                        </p>
-                        <a class="btn work__project-btn" href="#">Ver mais</a>
                     </div>
                     <!-- Project 4 -->
                     <h3 class="work__project-title"></h3>
@@ -355,9 +357,14 @@
             </section>
         </main>
         <footer class="footer container section">
-            <h3 class="footer__title">~ Feito por Guilherme Souza ~</h3>
+            <h3 class="footer__title">
+                <a href="#home" style="text-decoration: none"
+                    >~ Feito por Guilherme Souza ~</a
+                >
+            </h3>
             <br />
         </footer>
+
         <script type="module" src="./src/main.js"></script>
     </body>
 </html>
