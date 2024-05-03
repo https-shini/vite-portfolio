@@ -67,6 +67,18 @@
     margin-left: 0.5em;
 }
 
+.featured__link {
+    padding-top: 5px;
+}
+
+.fa-icons {
+    margin: auto;
+}
+
+.fa-icons i {
+    padding-right: 15px;
+}
+
 /* xs */
 @media (min-width: 475px) {
     .about {
@@ -92,6 +104,15 @@
     .about__list {
         font-size: var(--size-base);
     }
+
+    .fa-icons {
+        margin-left: 195px;
+    }
+
+    .fa-icons i {
+        padding-right: 15px;
+        cursor: pointer;
+    }
 }
 
 /* sm */
@@ -104,10 +125,28 @@
         width: 28.6875rem;
         border-radius: 15px;
     }
+
+    .fa-icons {
+        margin-left: 290px;
+    }
+
+    .fa-icons i {
+        padding-right: 15px;
+        cursor: pointer;
+    }
 }
 
 /* md */
-/* @media (min-width: 768px) {} */
+@media (min-width: 768px) {
+    .fa-icons {
+        margin-left: 290px;
+    }
+
+    .fa-icons i {
+        padding-right: 15px;
+        cursor: pointer;
+    }
+}
 
 /* lg */
 @media (min-width: 1024px) {
@@ -131,6 +170,15 @@
 
     .about__list {
         font-size: var(--size-lg);
+    }
+
+    .fa-icons {
+        margin-left: 300px;
+    }
+
+    .fa-icons i {
+        padding-right: 15px;
+        cursor: pointer;
     }
 }
 
@@ -160,7 +208,25 @@
         width: 30.75rem;
         border-radius: 15px;
     }
+
+    .fa-icons {
+        margin-left: 356px;
+    }
+
+    .fa-icons i {
+        padding-right: 15px;
+        cursor: pointer;
+    }
 }
 
 /* 2xl */
-/* @media (min-width: 1536px) {} */
+@media (min-width: 1536px) {
+    .fa-icons {
+        margin-left: 356px;
+    }
+
+    .fa-icons i {
+        padding-right: 15px;
+        cursor: pointer;
+    }
+}
