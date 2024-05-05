@@ -62,7 +62,7 @@
 
 .about__ul-container a {
     text-align: center;
-    color: white;
+    color: var(--clr-slate400);
     margin: 0 5px;
 }
 
