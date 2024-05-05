@@ -136,7 +136,10 @@
     .fa-icons i {
         padding-right: 15px;
         cursor: pointer;
-        font-size: 48px;
+    }
+
+    .fa {
+        font-size: 35px;
     }
 
     .about__ul-container {
@@ -162,12 +165,16 @@
     }
 
     .fa-icons {
-        margin-left: 290px;
+        margin: 0 0 0 305px;
     }
 
     .fa-icons i {
         padding-right: 15px;
         cursor: pointer;
+    }
+
+    .fa {
+        font-size: 40px;
     }
 
     .about__ul-container {
@@ -184,12 +191,16 @@
 /* md */
 @media (min-width: 768px) {
     .fa-icons {
-        margin-left: 290px;
+        margin-left: 302px;
     }
 
     .fa-icons i {
         padding-right: 15px;
         cursor: pointer;
+    }
+
+    .fa {
+        font-size: 40px;
     }
 
     .about__ul-container {
@@ -283,6 +294,10 @@
         cursor: pointer;
     }
 
+    .fa {
+        font-size: 50px;
+    }
+
     .about__ul-container {
         grid-template-columns: repeat(6, 1fr);
     }
@@ -297,12 +312,16 @@
 /* 2xl */
 @media (min-width: 1536px) {
     .fa-icons {
-        margin-left: 356px;
+        margin-left: 350px;
     }
 
     .fa-icons i {
         padding-right: 15px;
         cursor: pointer;
+    }
+
+    .fa {
+        font-size: 50px;
     }
 
     .about__ul-container {
