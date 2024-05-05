@@ -44,7 +44,7 @@
     color: var(--clr-slate400);
 }
 
-.about__ul-container {
+.about__ul-container .tec-icon {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(80px, 2fr));
     grid-gap: 20px;
@@ -54,13 +54,19 @@
     width: 100%;
 }
 
-.about__ul-container img {
+.about__ul-container .tec-icon img {
     width: 65%;
     height: auto;
     margin: auto;
 }
 
-.about__ul-container a {
+.about__ul-container .tec-icon a {
+    text-align: center;
+    color: var(--clr-slate400);
+    margin: 0 5px;
+}
+
+.tec-icon a {
     text-align: center;
     color: var(--clr-slate400);
     margin: 0 5px;
