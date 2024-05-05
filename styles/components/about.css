@@ -136,6 +136,7 @@
     .fa-icons i {
         padding-right: 15px;
         cursor: pointer;
+        font-size: 48px;
     }
 
     .about__ul-container {

@@ -91,3 +91,24 @@ body::-webkit-scrollbar-thumb {
     background-color: var(--clr-rose);
     outline: 1px solid var(--clr-rose);
 }
+
+@keyframes wind {
+    0% {
+        transform: rotate(0deg);
+    }
+    50% {
+        transform: rotate(10deg);
+    }
+    100% {
+        transform: rotate(-10deg);
+    }
+}
+
+.wind-animation {
+    animation: wind 3s ease-in-out infinite alternate; /* Movimento de balanço */
+    transition: transform 0.2s ease-in-out; /* Suaviza a transição */
+}
+
+.featured__link:hover .wind-animation {
+    transform: scale(1.1); /* Amplia o ícone ao passar o mouse */
+}
