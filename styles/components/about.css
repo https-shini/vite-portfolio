@@ -104,6 +104,13 @@
 }
 
 /* xs */
+@media (min-width: 310px) {
+    .fa {
+        font-size: 35px;
+    }
+}
+
+/* xs */
 @media (min-width: 475px) {
     .about {
         gap: 1.5rem;
