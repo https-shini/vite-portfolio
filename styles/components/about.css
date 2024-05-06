@@ -103,7 +103,7 @@
     padding-right: 15px;
 }
 
-/* xs */
+/* xxs */
 @media (min-width: 310px) {
     .fa {
         font-size: 35px;
