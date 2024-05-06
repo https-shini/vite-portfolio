@@ -84,7 +84,7 @@
     background-color: rgba(79, 70, 229, 0.1);
 }
 
-/* xs */
+/* xxs */
 @media (min-width: 310px) {
     .featured__subtitle {
         font-size: var(--size-base);
@@ -114,6 +114,12 @@
     .featured__link {
         width: var(--size-3xl);
         height: var(--size-3xl);
+    }
+
+    #featured__link {
+        width: var(--size-3xl);
+        height: var(--size-3xl);
+        margin-left: -5px;
     }
 
     .featured__description {

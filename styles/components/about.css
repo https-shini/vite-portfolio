@@ -111,7 +111,7 @@
     .featured__link {
         width: var(--size-5xl);
         height: var(--size-5xl);
-        margin-right: 50px;
+        margin-right: 5px;
     }
 }
 
