@@ -95,9 +95,9 @@
     }
 
     #featured__link {
-        width: var(--size-5xl);
-        height: var(--size-5xl);
-        margin-right: 50px;
+        width: 20%;
+        margin-right: 60px;
+        margin-bottom: 35px;
     }
 }
 
@@ -166,6 +166,11 @@
         height: var(--size-4xl);
     }
 
+    #featured__link {
+        width: 3.5%;
+        margin-bottom: 5px;
+    }
+
     .featured__description {
         font-size: var(--size-lg);
     }
@@ -194,6 +199,10 @@
         height: var(--size-5xl);
     }
 
+    #featured__link {
+        width: 3%;
+    }
+
     .featured__description {
         font-size: var(--size-xl);
         margin: 2rem 0;
@@ -214,4 +223,9 @@
 }
 
 /* 2xl */
-/* @media (min-width: 1536px) {} */
+@media (min-width: 1536px) {
+    #featured__link {
+        width: 3%;
+        margin-bottom: 15px;
+    }
+}
