@@ -101,7 +101,7 @@
     }
 }
 
-@media (min-width: 425px) {
+@media (min-width: 411px) {
     .featured__subtitle {
         font-size: var(--size-base);
     }
@@ -112,7 +112,7 @@
 
     #featured__link {
         width: 15%;
-        margin-right: 175px;
+        margin-right: 155px;
         margin-bottom: 35px;
     }
 }
