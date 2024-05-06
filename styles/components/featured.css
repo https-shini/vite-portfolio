@@ -26,6 +26,7 @@
     max-width: 60ch;
     color: var(--clr-slate600);
     font-size: var(--size-sm);
+    text-align: justify;
     margin: 1rem 0;
 }
 
