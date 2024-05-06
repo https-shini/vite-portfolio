@@ -28,6 +28,11 @@
     width: 3em;
 }
 
+.about__img {
+    width: 28.6875rem;
+    border-radius: 15px;
+}
+
 .about__description {
     max-width: 60ch;
     font-size: var(--size-sm);
@@ -121,6 +126,11 @@
 
 /* xs */
 @media (min-width: 475px) {
+    .about__img {
+        width: 28.6875rem;
+        border-radius: 15px;
+    }
+
     .about {
         gap: 1.5rem;
     }
