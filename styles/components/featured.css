@@ -84,6 +84,11 @@
     background-color: rgba(79, 70, 229, 0.1);
 }
 
+a {
+    text-decoration: none;
+    color: var(--clr-slate400);
+}
+
 /* xxxs */
 @media (min-width: 308px) {
     .featured__subtitle {
