@@ -103,6 +103,10 @@
     padding-right: 15px;
 }
 
+.featured__link {
+    color: var(--clr-rose);
+}
+
 /* xxs */
 @media (min-width: 310px) {
     .fa {
