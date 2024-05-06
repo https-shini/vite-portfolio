@@ -120,6 +120,7 @@
         width: var(--size-3xl);
         height: var(--size-3xl);
         margin-left: -5px;
+        margin-bottom: -5px;
     }
 
     .featured__description {
