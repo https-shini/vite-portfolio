@@ -5,7 +5,7 @@
     --clr-slate600: #475569;
     --clr-slate800: #1e293b;
     --clr-rose: #e11d48;
-    --clr-indigo: #4f46e5;
+    --clr-indigo: #5b53df;
 
     /* rose rgb(225, 29, 72) */
     /* indigo rgb(79, 70, 229) */
@@ -113,8 +113,4 @@ body::-webkit-scrollbar-thumb {
 .wind-animation {
     animation: wind 1s ease-in-out infinite alternate; /* Movimento de balanço */
     transition: transform 0.2s ease-in-out; /* Suaviza a transição */
-}
-
-.featured__link:hover .wind-animation {
-    transform: scale(1.1); /* Amplia o ícone ao passar o mouse */
 }

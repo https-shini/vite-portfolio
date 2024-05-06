@@ -108,6 +108,11 @@
     .fa {
         font-size: 35px;
     }
+    .featured__link {
+        width: var(--size-5xl);
+        height: var(--size-5xl);
+        margin-right: 50px;
+    }
 }
 
 /* xs */

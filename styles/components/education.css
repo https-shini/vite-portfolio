@@ -82,21 +82,14 @@
     color: var(--clr-slate600);
 }
 
-/* xs */
-@media (min-width: 475px) {
-}
-
-/* sm */
-@media (min-width: 640px) {
-}
-
 /* md */
 @media (max-width: 950px) {
     .timeline .timelone-row {
         display: flex;
         column-gap: 64px;
         flex-wrap: wrap;
-        margin-left: -5px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .timeline-row .timeline-column {

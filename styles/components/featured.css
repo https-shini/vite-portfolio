@@ -85,6 +85,23 @@
 }
 
 /* xs */
+@media (min-width: 310px) {
+    .featured__subtitle {
+        font-size: var(--size-base);
+    }
+
+    .featured__title {
+        font-size: var(--size-3xl);
+    }
+
+    #featured__link {
+        width: var(--size-5xl);
+        height: var(--size-5xl);
+        margin-right: 50px;
+    }
+}
+
+/* xs */
 @media (min-width: 475px) {
     .featured__subtitle {
         font-size: var(--size-base);
