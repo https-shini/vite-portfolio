@@ -36,7 +36,8 @@
 
 .hero__btn {
     text-transform: capitalize;
-    font-size: var(--size-sm);
+    font-size: var(--size-base);
+    margin-top: 15px;
 }
 
 /* xs */

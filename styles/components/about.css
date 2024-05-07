@@ -191,7 +191,7 @@
     }
 
     .fa-icons {
-        margin: 0 0 0 305px;
+        margin: 0 0 0 350px;
     }
 
     .fa-icons i {
@@ -217,7 +217,7 @@
 /* md */
 @media (min-width: 768px) {
     .fa-icons {
-        margin-left: 302px;
+        margin-left: 350px;
     }
 
     .fa-icons i {
@@ -265,7 +265,7 @@
     }
 
     .fa-icons {
-        margin-left: 300px;
+        margin-left: 345px;
     }
 
     .fa-icons i {
@@ -312,7 +312,7 @@
     }
 
     .fa-icons {
-        margin-left: 356px;
+        margin-left: 415px;
     }
 
     .fa-icons i {
@@ -338,7 +338,7 @@
 /* 2xl */
 @media (min-width: 1536px) {
     .fa-icons {
-        margin-left: 350px;
+        margin-left: 415px;
     }
 
     .fa-icons i {
