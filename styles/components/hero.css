@@ -42,7 +42,7 @@
 }
 
 /* xs */
-@media (min-width: 415px) {
+@media (min-width: 310px) {
     .hero__btn {
         font-size: 0.1rem;
     }
@@ -72,7 +72,7 @@
     }
 
     .hero__btn {
-        font-size: var(--size-xxs);
+        font-size: var(--size-sm);
     }
 }
 
