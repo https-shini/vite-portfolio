@@ -44,7 +44,7 @@
 /* xs */
 @media (min-width: 310px) {
     .hero__btn {
-        font-size: var(--size-xs);
+        font-size: var(--size-xxs);
     }
 }
 
