@@ -41,10 +41,11 @@
     margin-top: 15px;
 }
 
-/* xs */
+/* xxs */
 @media (min-width: 310px) {
     .hero__btn {
         font-size: var(--size-base);
+        white-space: nowrap;
     }
 }
 
