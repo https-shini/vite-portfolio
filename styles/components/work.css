@@ -106,6 +106,7 @@
 
 .work__project-btn {
     font-size: var(--size-sm);
+    text-decoration: none;
     margin-right: 35px;
 }
 

@@ -21,6 +21,7 @@
 
 .contact__btn {
     font-size: var(--size-sm);
+    text-decoration: none;
 }
 
 /* xs */
