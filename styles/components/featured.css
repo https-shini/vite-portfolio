@@ -90,7 +90,22 @@
 }
 
 a {
-    text-decoration: none;
+    color: var(--clr-slate400);
+}
+
+.acessar {
+    color: var(--clr-slate400);
+}
+
+.acessar:hover {
+    color: var(--clr-rose);
+    .bx-link-external {
+        color: var(--clr-rose);
+    }
+}
+
+.bx-link-external {
+    text-decoration: underline;
     color: var(--clr-slate400);
 }
 
